@@ -1,0 +1,1 @@
+streamlit run "C:\Users\91997\Documents\coderalpha\multiple disease prediction system\multiple_disease_pred.py"
